@@ -1,0 +1,10 @@
+---
+title: "Untitled"
+output: html_document
+date: "2025-11-07"
+---
+<div dir="rtl">
+
+لتصدير PDF مع العربية، تحتاج إلى استخدام حزمة xelatex أو lualatex لأنها تدعم الخطوط العربية و RTL:
+
+</div>
